@@ -16,9 +16,6 @@ export default [
       'semi': ['error', 'always'],
       'indent': ['error', 2],
       'quotes': ['error', 'single'],
-      'space-before-function-paren': ['error', 'never'],
-      'comma-dangle': ['error', 'never'],
-      'curly': ['error','all']
     }
   }
 ];
